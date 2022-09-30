@@ -1,4 +1,4 @@
-# Tresure Map
+# Treasure Map
 
 - Program that allows mark square using two-digit system
 - First digit is vertical and second is horizontal
