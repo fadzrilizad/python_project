@@ -1,6 +1,3 @@
-from subprocess import call
-
-
 year = int(input("Which year do you want to check? "))
 
 # calculate leap year function
